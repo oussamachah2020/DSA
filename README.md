@@ -2,7 +2,7 @@
 
 > this repo contains Algorithms written in java
 
-i code using eclipse IDE ! to install it => [Download](https://www.eclipse.org/downloads/)
+i code using eclipse IDE ! to Download it : [Eclipse](https://www.eclipse.org/downloads/)
 
 ## Examples
 
