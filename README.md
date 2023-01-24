@@ -10,7 +10,7 @@ i code using eclipse IDE ! to install it => [Download](https://www.eclipse.org/d
 
 > **Binary Search**
 
-> > > Binary Search is a searching algorithm for finding an element's position in a sorted array.
+##### Binary Search is a searching algorithm for finding an element's position in a sorted array.
 
 ```java
 public class BinarySearch {
@@ -48,7 +48,7 @@ public class BinarySearch {
 
 > **Linear Search**
 
-> > > Linear search is a sequential searching algorithm where we start from one end and check every element of the list until the desired element is found. It is the simplest searching algorithm.
+##### Linear search is a sequential searching algorithm where we start from one end and check every element of the list until the desired element is found. It is the simplest searching algorithm.
 
 ```java
 public class LinearSearch {
@@ -81,7 +81,7 @@ public class LinearSearch {
 
 > **Bubble Sort**
 
-> > > Bubble sort is a sorting algorithm that compares two adjacent elements and swaps them until they are in the intended order.
+##### Bubble sort is a sorting algorithm that compares two adjacent elements and swaps them until they are in the intended order.
 
 ```java
 
@@ -117,7 +117,7 @@ public class BubbleSort {
 
 > **Quick Sort**
 
-> > > Quicksort is a sorting algorithm based on the divide and conquer approach where
+##### Quicksort is a sorting algorithm based on the divide and conquer approach where
 
 - An array is divided into subarrays by selecting a pivot element (element selected from the array).
 - While dividing the array, the pivot element should be positioned in such a way that elements less than pivot are kept on the left side and elements greater than pivot are on the right side of the pivot.
