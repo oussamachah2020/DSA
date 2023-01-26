@@ -8,7 +8,7 @@ public class BinarySearch {
 			 array[i] = i;
 		 }
 		 
-		 int index = binarySearch(array, target);
+		binarySearch(array, target);
 	}
 
 	private static int binarySearch(int[] array, int target) {
